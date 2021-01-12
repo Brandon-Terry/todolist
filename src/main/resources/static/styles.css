@@ -1,0 +1,24 @@
+.page-header {
+  display: block;
+  padding:15px;
+  text-align: center;
+  background-color: dimgray;  
+  color:white;
+  font-size: 20px;;
+}
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: #111726;
+}
+h1{
+
+  justify-content: space-around;
+}
+.button{
+  color: darkred;
+}
